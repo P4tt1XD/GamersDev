@@ -1,4 +1,4 @@
-<img src="">
+![Preview](GamersDev.jpg)
 
 # Getting Started with Create React App
 
