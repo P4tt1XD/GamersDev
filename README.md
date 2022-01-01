@@ -1,4 +1,7 @@
-![Preview](GamersDev.jpg)
+![Preview](https://github.com/P4tt1XD/GamersDev/blob/main/GamersDev.PNG)
+
+<h1> GamersDev </h1>
+<h2> Feito para quem gosta de games! </h2>
 
 # Getting Started with Create React App
 
